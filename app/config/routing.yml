@@ -1,0 +1,4 @@
+catalog_d_base:
+    resource: "@CatalogDBaseBundle/Resources/config/routing.yml"
+    prefix:   /
+
