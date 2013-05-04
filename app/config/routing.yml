@@ -1,6 +1,6 @@
 home:
     pattern: /
-    defaults: { _controller: CatalogDBaseBundle:Item:list }
+    defaults: { _controller: CatalogDBaseBundle:Item:index }
 
 catalog_d_base:
     resource: "@CatalogDBaseBundle/Resources/config/routing.yml"
